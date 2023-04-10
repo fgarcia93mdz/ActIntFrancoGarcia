@@ -6,5 +6,5 @@ El trabajo consta de un gestor de viajes, con un registro de usuarios, ventana d
 
 Url del servidor
 
-http://localhost:8888/ActIntFrancoGarcia/index.php
+
 
